@@ -25,5 +25,4 @@ public class MessagingConfig {
 
         return messageConverter;
     }
-
 }
